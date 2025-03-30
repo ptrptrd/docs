@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "657d7f1b148c8011",
+        "id": "3ead40fada9c77e0",
         "type": "tabs",
         "children": [
           {
-            "id": "17692b9a37a7c6ff",
+            "id": "b3ff9d4520791a5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/oz-image-plugin/main.js",
+                "bFile": ".obsidian/plugins/oz-image-plugin/main.js",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: main.js"
             }
           }
         ]
@@ -172,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15034e7eee8bcd0c",
+  "active": "b3ff9d4520791a5f",
   "lastOpenFiles": [
     "notes/First Post.md",
     "notes/First Post.md~",
