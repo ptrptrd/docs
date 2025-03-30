@@ -1,0 +1,1 @@
+Initial post to test git push with Obsidian. 
