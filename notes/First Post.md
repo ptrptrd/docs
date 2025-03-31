@@ -6,7 +6,7 @@ pubDate: Jul 08 2022
 
 Initial post to test git push with Obsidian. 
 
-![[ptrptrd.png]]
+![](assets/ptrptrd.png)
 
 
 Add picture to test things out. 

@@ -1,1 +1,7 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./assets",
+  "newLinkFormat": "relative"
+}
