@@ -10,3 +10,7 @@ Initial post to test git push with Obsidian.
 
 
 Add picture to test things out. 
+
+## Section 2 
+
+Add new section to trigger workflow.
