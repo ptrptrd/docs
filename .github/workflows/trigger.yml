@@ -12,3 +12,4 @@ jobs:
         with:
             repository: ptrptrd/me
             event-type: rebuild
+            token: ${{ secrets.TRIGGER_TOKEN }}
