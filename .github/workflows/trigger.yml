@@ -1,0 +1,14 @@
+name: Trigger Github Page Repo
+on:
+  push:
+    branches: [main]
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v3
+        with:
+            repository: ptrptrd/me
+            event-type: rebuild
