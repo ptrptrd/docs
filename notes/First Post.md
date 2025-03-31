@@ -6,8 +6,7 @@ pubDate: Jul 08 2022
 
 Initial post to test git push with Obsidian. 
 
-![ptrptrd](<file:////home/ptrd/Documents/ptrptrd/ptrptrd.png>)
-
+![[ptrptrd.png]]
 
 
 Add picture to test things out. 

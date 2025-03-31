@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ead40fada9c77e0",
+        "id": "1703be48b6683c53",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ff9d4520791a5f",
+            "id": "34c53eb4eaef4c18",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "notes/First Post.md",
-                "bFile": "notes/First Post.md",
-                "aRef": ""
+                "file": "notes/First Post.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: First Post"
+              "icon": "lucide-file",
+              "title": "First Post"
             }
           }
         ]
@@ -176,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ff9d4520791a5f",
+  "active": "34c53eb4eaef4c18",
   "lastOpenFiles": [
+    "ptrptrd.png",
     "notes/First Post.md",
     "notes/First Post.md~",
     "notes",
