@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/plugins/oz-image-plugin/main.js",
-                "bFile": ".obsidian/plugins/oz-image-plugin/main.js",
+                "aFile": "notes/First Post.md",
+                "bFile": "notes/First Post.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: main.js"
+              "title": "Diff: First Post"
             }
           }
         ]
