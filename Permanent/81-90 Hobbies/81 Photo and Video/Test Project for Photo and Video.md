@@ -1,25 +1,33 @@
-<%*
-let title = tp.file.title; 
-if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Give a title to this note:");
-	await tp.file.rename(title);
-	await tp.hooks.on_all_templates_executed(() => {});
-}
-_%>
-
 ---
-title: <% title %>
-start date: <% tp.date.now("YYYY-MM-DD") %>
+title: Test Project for Photo and Video
+start date: 2026-05-10
 type: project
 tags:
   - project
+  - photo
+  - video
+  - publishing
 draft: "true"
 status: in progress
 ---
 ---
-# <% title %>
+# Test Project for Photo and Video
 
-# Description
+# Progression
+
+## Photos
+- [ ] Import to Lightroom
+- [ ] Photo Selection
+- [ ] Editing Others' Photos
+- [ ] Editing Own Photos
+- [ ] Portfolio Selection
+- [ ] Done
+
+## Videos
+- [ ] Footage Selection
+- [ ] Editing Own Footage
+- [ ] Portfolio Selection
+- [ ] Done
 
 # Notes
 
@@ -90,3 +98,6 @@ for (let page of journalPages) {
 ```
 
 ---
+
+
+

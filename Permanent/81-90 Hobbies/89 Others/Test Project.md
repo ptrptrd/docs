@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Test Project
 start date: 2026-05-10
 type: project
 tags:
@@ -8,7 +8,7 @@ draft: "true"
 status: in progress
 ---
 ---
-# Untitled
+# Test Project
 
 # Description
 

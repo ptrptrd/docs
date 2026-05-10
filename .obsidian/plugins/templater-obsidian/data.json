@@ -22,6 +22,10 @@
   "enable_file_templates": true,
   "file_templates": [
     {
+      "regex": "(^|.*/)81-90 Hobbies/81 Photo and Video(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
+    },
+    {
       "regex": "(^|.*/)81-90 Hobbies(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
     }

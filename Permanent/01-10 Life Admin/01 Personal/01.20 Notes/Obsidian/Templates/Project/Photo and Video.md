@@ -1,0 +1,112 @@
+<%*
+let title = tp.file.title; 
+if (title.startsWith("Untitled")) {
+	title = await tp.system.prompt("Give a title to this note:");
+	await tp.file.rename(title);
+	await tp.hooks.on_all_templates_executed(() => {});
+}
+_%>
+
+---
+title: <% title %>
+start date: <% tp.date.now("YYYY-MM-DD") %>
+type: project
+tags:
+  - project
+  - photo
+  - video
+  - publishing
+draft: "true"
+status: in progress
+---
+---
+# <% title %>
+
+# Progression
+
+## Photos
+- [ ] Import to Lightroom
+- [ ] Photo Selection
+- [ ] Editing Others' Photos
+- [ ] Editing Own Photos
+- [ ] Portfolio Selection
+- [ ] Done
+
+## Videos
+- [ ] Footage Selection
+- [ ] Editing Own Footage
+- [ ] Portfolio Selection
+- [ ] Done
+
+# Notes
+
+---
+# Tasks
+
+```dataview
+TASK 
+FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"
+WHERE contains(text, "[[" + this.file.name + "]]")
+SORT file.name ASC
+```
+
+---
+# Journal & Session Index
+
+```dataview
+TABLE
+FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"
+WHERE contains(file.outlinks, this.file.link)
+SORT date DESC
+```
+
+# Journal & Session Notes
+
+```dataviewjs
+const journalFolder = '"Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"'
+
+const currentNoteName = dv.current().file.name;
+const journalPages = dv.pages(journalFolder);
+
+function demoteHeadings(line) {
+	return line.replace(/^(#{1,6})(\s+)/, (match, hashes, space) => {
+		const newLevel = Math.min(6, hashes.length + 1);
+		return '#'.repeat(newLevel) + space;
+	});
+}
+
+for (let page of journalPages) {
+	const content = await dv.io.load(page.file.path);
+	const lines = content.split('\n');
+	let output = [];
+	let inside = false; 
+	let targetLevel = null;
+	
+	for (const line of lines) {
+		const headingMatch = line.match(/^(#{1,6})(\s+)/);
+		
+		if (!inside) {
+			// Found the note part for this project
+			if (headingMatch && line.includes(`[[${currentNoteName}]]`)){
+				targetLevel = headingMatch[1].length;
+				inside = true;
+			}
+		} else {
+			if (headingMatch && headingMatch[1].length <= targetLevel) {
+				break;
+			}
+			output.push(demoteHeadings(line));
+		}
+	}
+	
+	if (output.length > 0) {
+		dv.header(2, `[[${page.file.name}]]`);
+		dv.paragraph(output.join('\n'));
+	}
+}
+```
+
+---
+
+
+
