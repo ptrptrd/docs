@@ -12,25 +12,23 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
-      "folder": "Permanent/81-90 Hobbies/89 Others",
+      "folder": "(^|.*/)81-90 Hobbies(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
     }
   ],
-  "enable_file_templates": false,
+  "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": ".*",
-      "template": ""
+      "regex": "(^|.*/)81-90 Hobbies(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],
