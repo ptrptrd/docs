@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "oz-image-plugin",
-  "obsidian-file-link"
+  "obsidian-excalidraw-plugin",
+  "quickadd",
+  "dataview",
+  "templater-obsidian"
 ]

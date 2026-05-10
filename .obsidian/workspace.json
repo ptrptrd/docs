@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "10798038992abc43",
+        "id": "a48f2d80bd48e751",
         "type": "tabs",
         "children": [
           {
-            "id": "b73aea263b233d81",
+            "id": "84dda4a6f2b3b175",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Permanent/81-90 Hobbies/89 Others/Test Project.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test Project"
             }
           }
         ]
@@ -163,6 +167,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -173,15 +179,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d02ebfb1c8dee4ce",
+  "active": "84dda4a6f2b3b175",
   "lastOpenFiles": [
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
+    "Permanent/81-90 Hobbies/89 Others/Test Project.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/2026-05-10.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Untitled.md",
+    "Permanent/81-90 Hobbies/89 Others/Test Project 1.md",
+    "Permanent/81-90 Hobbies/89 Others",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md",
+    "Yearly/2026/81-90 Hobbies/82 Music/82.04 Projects",
+    "Yearly/2026/81-90 Hobbies/82 Music",
+    "Yearly/2026/81-90 Hobbies/81 Photo and Video/81.03 Projects",
+    "Yearly/2026/81-90 Hobbies/81 Photo and Video",
+    "Yearly/2026/81-90 Hobbies",
+    "Yearly/2026",
+    "Yearly",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Untitled.canvas",
+    "Permanent/81-90 Hobbies/85 Programming",
+    "Templates/Knowledge/Music.md",
+    "Templates/Knowledge.md",
+    "Templates/Knowledge/Language.md",
+    "Templates/Knowledge/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md",
+    "Templates/Project.md",
+    "Projects/Template.md",
+    "Projects/Photo and Video/Template.md",
+    "Knowledge/Template.md",
+    "Templates/Session.md",
     "notes/First Post.md",
     "notes/assets/ptrptrd 1.png",
     "notes/assets/ptrptrd.png",
-    "notes/assets",
     "ptrptrd.png",
-    "notes/First Post.md~",
-    "notes",
     "Welcome.md"
   ]
 }
