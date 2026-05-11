@@ -28,6 +28,10 @@
     {
       "regex": "(^|.*/)81-90 Hobbies(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
+    },
+    {
+      "regex": "(^|.*/)01.20 Notes(/.*)Sessions(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md"
     }
   ],
   "syntax_highlighting": true,

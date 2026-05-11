@@ -36,7 +36,7 @@ status: in progress
 
 ```dataview
 TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"
+FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
 WHERE contains(text, "[[" + this.file.name + "]]")
 SORT file.name ASC
 ```
@@ -45,8 +45,8 @@ SORT file.name ASC
 # Journal & Session Index
 
 ```dataview
-TABLE
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"
+TABLE title AS "Title"
+FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
 WHERE contains(file.outlinks, this.file.link)
 SORT date DESC
 ```
@@ -55,9 +55,10 @@ SORT date DESC
 
 ```dataviewjs
 const journalFolder = '"Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"'
+const sessionsFolder = '"Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"'
 
 const currentNoteName = dv.current().file.name;
-const journalPages = dv.pages(journalFolder);
+const pages = dv.pages(`${journalFolder} OR ${sessionsFolder}`);
 
 function demoteHeadings(line) {
 	return line.replace(/^(#{1,6})(\s+)/, (match, hashes, space) => {
@@ -66,7 +67,7 @@ function demoteHeadings(line) {
 	});
 }
 
-for (let page of journalPages) {
+for (let page of pages) {
 	const content = await dv.io.load(page.file.path);
 	const lines = content.split('\n');
 	let output = [];
