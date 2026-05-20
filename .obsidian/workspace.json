@@ -11,14 +11,14 @@
             "id": "1c39c69da39fc862",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Permanent/81-90 Hobbies/81 Photo and Video/Test Project for Photo and Video.md",
-                "bFile": "Permanent/81-90 Hobbies/81 Photo and Video/Test Project for Photo and Video.md",
-                "aRef": ""
+                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Test Project for Photo and Video  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Language"
             }
           }
         ]
@@ -181,12 +181,13 @@
   },
   "active": "1c39c69da39fc862",
   "lastOpenFiles": [
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
