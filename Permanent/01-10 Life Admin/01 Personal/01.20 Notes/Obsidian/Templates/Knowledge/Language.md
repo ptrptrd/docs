@@ -11,16 +11,13 @@ _%>
 title: <% title %>
 date: <% tp.date.now("YYYY-MM-DD") %>
 type: knowledge
+language: <% title %>
 tags:
   - knowledge
 draft: "true"
 ---
 ---
 # <% title %>
-
-# Description
-
----
 
 # Journal & Session Index
 
