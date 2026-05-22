@@ -22,7 +22,7 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "(^|.*/)81-90 Hobbies/81 Photo and Video(/.*)?$",
+      "regex": "(^|.*/)81-90 Hobbies/81 Photo and Video(/.*)Projects(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
     },
     {
@@ -30,8 +30,8 @@
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Knowledge(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md"
     },
     {
       "regex": "(^|.*/)01\\.20 Notes(/.*)Sessions(/.*)?$",

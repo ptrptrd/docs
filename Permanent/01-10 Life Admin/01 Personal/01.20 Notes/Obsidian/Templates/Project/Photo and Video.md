@@ -1,7 +1,7 @@
 <%*
 let title = tp.file.title; 
 if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Give a title to this note:");
+	title = await tp.system.prompt("Give a title to this photo and video project note:");
 	await tp.file.rename(title);
 	await tp.hooks.on_all_templates_executed(() => {});
 }
