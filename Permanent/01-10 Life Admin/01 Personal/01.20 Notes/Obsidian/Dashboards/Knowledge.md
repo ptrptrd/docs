@@ -8,11 +8,14 @@ draft: "false"
 ---
 # Last Written Knowledge Notes
 
-```dataview
-TABLE title AS "Title"
-FROM ""
-WHERE type = lower("Knowledge")
-SORT date DESC
-```
+<!-- QueryToSerialize: TABLE title AS "Title" FROM "" WHERE type = lower("Knowledge") SORT date DESC -->
+<!-- SerializedQuery: TABLE title AS "Title" FROM "" WHERE type = lower("Knowledge") SORT date DESC -->
+
+| File                                                                                                              | Title               |
+| ----------------------------------------------------------------------------------------------------------------- | ------------------- |
+| [[Sample Knowledge 01]] | Sample Knowledge 01 |
+| [[Sample Language 01]]                         | Sample Language 01  |
+
+<!-- SerializedQuery END -->
 
 

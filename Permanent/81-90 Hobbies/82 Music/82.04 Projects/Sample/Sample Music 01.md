@@ -30,12 +30,14 @@ status: in progress
 ---
 # Journal & Session Index
 
-```dataview
-TABLE title AS "Title"
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(file.outlinks, this.file.link)
-SORT date DESC
-```
+<!-- QueryToSerialize: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
+<!-- SerializedQuery: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
+
+| File                                                                                                       | Title                      |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Sample Session]] | Session - 2026-05-11 21:42 |
+
+<!-- SerializedQuery END -->
 
 # Journal & Session Notes
 

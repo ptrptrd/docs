@@ -8,7 +8,7 @@
   "showRefreshButton": true,
   "foldersToForceUpdate": [],
   "showErrorNotifications": true,
-  "debugLogging": false,
+  "debugLogging": true,
   "addTrailingNewline": false,
   "linkFormat": "shortest",
   "enableDataviewJS": true
