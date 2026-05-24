@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge"
+              "title": "index"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "1c39c69da39fc862",
   "lastOpenFiles": [
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
+    "index.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
     "Permanent/81-90 Hobbies/89 Others/Test Project.md",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
@@ -217,7 +218,6 @@
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Untitled.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Test.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Exposure.md",
-    "Yearly/2026/81-90 Hobbies/81 Photo and Video/81.03 Projects/Test.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Untitled.canvas",
     "notes/assets/ptrptrd 1.png",
     "ptrptrd.png"
