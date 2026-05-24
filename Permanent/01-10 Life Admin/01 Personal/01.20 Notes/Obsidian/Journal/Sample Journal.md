@@ -10,7 +10,7 @@ draft: "true"
 ---
 # Sunday, May 10th 2026
 
-## [[Test Project]]
+## [[Sample Project 01]]
 
 This is a test note to test project template. 
 
@@ -21,3 +21,14 @@ This progress should still be included in the project note.
 ## Some other stuffs
 
 This should not be included in the project note. 
+
+
+## [[Sample Language 01]]
+
+### Grammar 
+
+This is a test grammar note. 
+
+### Vocabularies 
+
+- next: one. 

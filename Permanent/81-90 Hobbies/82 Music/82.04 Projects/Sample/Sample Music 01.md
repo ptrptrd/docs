@@ -1,25 +1,16 @@
-<%*
-let title = tp.file.title; 
-if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Give a title to this general project note:");
-	await tp.file.rename(title);
-	await tp.hooks.on_all_templates_executed(() => {});
-}
-_%>
-
 ---
-title: <% title %>
-start date: <% tp.date.now("YYYY-MM-DD") %>
+title: Sample Music 01
+start date: 2026-05-24
 type: project
 tags:
   - project
   - music
 draft: "true"
-artist: 
+artist: hindia
 status: in progress
 ---
 ---
-# <% title %>
+# Sample Music 01
 
 # Song 
 

@@ -1,41 +1,15 @@
-<%*
-let title = tp.file.title; 
-if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Give a title to this general project note:");
-	await tp.file.rename(title);
-	await tp.hooks.on_all_templates_executed(() => {});
-}
-_%>
-
 ---
-title: <% title %>
-start date: <% tp.date.now("YYYY-MM-DD") %>
-type: project
+title: Sample Language 01
+date: 2026-05-24
+type: knowledge
+language: Sample Language 01
 tags:
-  - project
-  - music
+  - knowledge
 draft: "true"
-artist: 
-status: in progress
 ---
 ---
-# <% title %>
+# Sample Language 01
 
-# Song 
-
-# Notes
-
----
-# Tasks
-
-```dataview
-TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(text, "[[" + this.file.name + "]]")
-SORT file.name ASC
-```
-
----
 # Journal & Session Index
 
 ```dataview

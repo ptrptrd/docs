@@ -1,47 +1,18 @@
 ---
-title: Test Project for Photo and Video
-start date: 2026-05-10
-type: project
+title: Sample Knowledge 01
+date: 2026-05-24
+type: knowledge
 tags:
-  - project
-  - photo
-  - video
-  - publishing
+  - knowledge
 draft: "true"
-status: in progress
 ---
 ---
-# Test Project for Photo and Video
+# Sample Knowledge 01
 
-# Progression
-
-## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
-- [ ] Editing Own Photos
-- [ ] Portfolio Selection
-- [ ] Done
-
-## Videos
-- [ ] Footage Selection
-- [ ] Editing Own Footage
-- [ ] Portfolio Selection
-- [ ] Done
-
-# Notes
+# Description
 
 ---
-# Tasks
 
-```dataview
-TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(text, "[[" + this.file.name + "]]")
-SORT file.name ASC
-```
-
----
 # Journal & Session Index
 
 ```dataview
@@ -99,6 +70,3 @@ for (let page of pages) {
 ```
 
 ---
-
-
-

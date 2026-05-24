@@ -1,27 +1,33 @@
-<%*
-let title = tp.file.title; 
-if (title.startsWith("Untitled")) {
-	title = await tp.system.prompt("Give a title to this general project note:");
-	await tp.file.rename(title);
-	await tp.hooks.on_all_templates_executed(() => {});
-}
-_%>
-
 ---
-title: <% title %>
-start date: <% tp.date.now("YYYY-MM-DD") %>
+title: Sample Project 01
+start date: 2026-05-24
 type: project
 tags:
   - project
-  - music
+  - photo
+  - video
+  - publishing
 draft: "true"
-artist: 
-status: in progress
+status: completed
 ---
 ---
-# <% title %>
+# Sample Project 01
 
-# Song 
+# Progression
+
+## Photos
+- [ ] Import to Lightroom
+- [ ] Photo Selection
+- [ ] Editing Others' Photos
+- [ ] Editing Own Photos
+- [ ] Portfolio Selection
+- [ ] Done
+
+## Videos
+- [ ] Footage Selection
+- [ ] Editing Own Footage
+- [ ] Portfolio Selection
+- [ ] Done
 
 # Notes
 
@@ -93,3 +99,6 @@ for (let page of pages) {
 ```
 
 ---
+
+
+
