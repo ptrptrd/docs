@@ -1,0 +1,65 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": false,
+  "folder_templates": [
+    {
+      "folder": "(^|.*/)81-90 Hobbies(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
+    }
+  ],
+  "enable_file_templates": true,
+  "file_templates": [
+    {
+      "regex": "(^|.*/)81-90 Hobbies/81 Photo and Video(/.*)Projects(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
+    },
+    {
+      "regex": "(^|.*/)81-90 Hobbies/82 Music(/.*)Projects(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md"
+    },
+    {
+      "regex": "(^|.*/)81-90 Hobbies/88 Languages(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md"
+    },
+    {
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Knowledge(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md"
+    },
+    {
+      "regex": "(^|.*/)01\\.20 Notes(/.*)Sessions(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md"
+    },
+    {
+      "regex": "(^|.*/)01\\.20 Notes(/.*)Dashboards(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md"
+    },
+    {
+      "regex": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
+  ]
+}
