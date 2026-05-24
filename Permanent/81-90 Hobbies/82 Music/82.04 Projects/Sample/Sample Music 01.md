@@ -19,12 +19,13 @@ status: in progress
 ---
 # Tasks
 
-```dataview
-TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(text, "[[" + this.file.name + "]]")
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TASK FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(text, "[[" + this.file.name + "]]") SORT file.name ASC -->
+<!-- SerializedQuery: TASK FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(text, "[[" + this.file.name + "]]") SORT file.name ASC -->
+- Start sampling drum. [[Sample Music 01]]
+- Turn vocal's volume down. [[Sample Music 01]]
+- Add new task. [[Sample Music 01]]
+
+<!-- SerializedQuery END -->
 
 ---
 # Journal & Session Index

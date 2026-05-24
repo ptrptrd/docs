@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
+                "file": "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Music 02"
+              "title": "Sample Music 01"
             }
           }
         ]
@@ -163,7 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +181,14 @@
   },
   "active": "ea51f8f7d277c357",
   "lastOpenFiles": [
-    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions/Sample Session.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
+    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions/Sample Session.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
     "index.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
     "Permanent/81-90 Hobbies/89 Others/Test Project.md",
     "Permanent/81-90 Hobbies/89 Others",
     "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
