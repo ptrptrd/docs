@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
+                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Coffee.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Project"
+              "title": "Coffee"
             }
           }
         ]
@@ -181,18 +181,19 @@
   },
   "active": "1c39c69da39fc862",
   "lastOpenFiles": [
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Coffee.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Sample Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions/Sample Session.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects/Sample/Sample Project 01.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Sample/Sample Knowledge 01.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects",
     "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
@@ -211,7 +212,6 @@
     "Yearly/2026/81-90 Hobbies/82 Music/Untitled.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Test.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions/2026-05-22 1.md",
-    "Yearly/2026/81-90 Hobbies/Test.md",
     "Permanent/81-90 Hobbies/88 Languages",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects",
