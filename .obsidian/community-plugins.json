@@ -4,5 +4,6 @@
   "obsidian-excalidraw-plugin",
   "quickadd",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "dataview-serializer"
 ]
