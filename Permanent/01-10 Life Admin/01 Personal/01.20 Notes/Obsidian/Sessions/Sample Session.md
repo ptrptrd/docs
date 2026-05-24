@@ -35,3 +35,4 @@ Check https://wikipedia.com.
 ### Mixing 
 
 - [ ] Turn vocal's volume down. [[Sample Music 01]]
+- [ ] Add new task. [[Sample Music 01]]
