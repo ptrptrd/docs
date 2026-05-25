@@ -5,7 +5,7 @@ type: knowledge
 language: Sample Language 01
 tags:
   - knowledge
-draft: "true"
+draft: "false"
 ---
 ---
 # Sample Language 01

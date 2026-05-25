@@ -7,7 +7,7 @@ tags:
   - photo
   - video
   - publishing
-draft: "true"
+draft: "false"
 status: completed
 ---
 ---

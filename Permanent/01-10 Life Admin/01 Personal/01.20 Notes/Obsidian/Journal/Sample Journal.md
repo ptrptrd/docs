@@ -5,7 +5,7 @@ type: journal
 tags:
   - daily
   - journal
-draft: "true"
+draft: "false"
 ---
 ---
 # Sunday, May 10th 2026

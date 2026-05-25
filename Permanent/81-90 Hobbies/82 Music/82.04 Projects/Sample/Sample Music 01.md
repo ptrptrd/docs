@@ -5,7 +5,7 @@ type: project
 tags:
   - project
   - music
-draft: "true"
+draft: "false"
 artist: hindia
 status: in progress
 ---

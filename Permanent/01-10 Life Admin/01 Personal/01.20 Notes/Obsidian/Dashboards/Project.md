@@ -8,13 +8,14 @@ draft: "false"
 ---
 # Open Project
 
-```dataview
-TABLE title AS "Title"
-FROM ""
-WHERE type = lower("Project")
-WHERE status = "in progress"
-SORT date DESC
-```
+<!-- QueryToSerialize: TABLE title AS "Title" FROM "" WHERE type = lower("Project") WHERE status = "in progress" SORT date DESC -->
+<!-- SerializedQuery: TABLE title AS "Title" FROM "" WHERE type = lower("Project") WHERE status = "in progress" SORT date DESC -->
+
+| File                                                                                           | Title           |
+| ---------------------------------------------------------------------------------------------- | --------------- |
+| [[Sample Music 01]] | Sample Music 01 |
+
+<!-- SerializedQuery END -->
 
 # Completed Project
 
