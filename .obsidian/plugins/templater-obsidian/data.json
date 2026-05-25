@@ -30,6 +30,10 @@
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md"
     },
     {
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Projects(/.*)?$",
+      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
+    },
+    {
       "regex": "(^|.*/)81-90 Hobbies/88 Languages(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md"
     },
@@ -44,10 +48,6 @@
     {
       "regex": "(^|.*/)01\\.20 Notes(/.*)Dashboards(/.*)?$",
       "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md"
-    },
-    {
-      "regex": "",
-      "template": ""
     }
   ],
   "syntax_highlighting": true,
