@@ -10,11 +10,13 @@ _%>
 ---
 title: <% title %>
 date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+draft: "false"
 type: dashboard
 tags:
   - dashboard
-draft: "false"
+
 ---
+
 # Open Project
 
 ```dataview

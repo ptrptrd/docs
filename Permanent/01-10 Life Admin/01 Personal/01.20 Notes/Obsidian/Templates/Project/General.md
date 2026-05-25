@@ -11,12 +11,11 @@ _%>
 title: <% title %>
 start date: <% tp.date.now("YYYY-MM-DD") %>
 type: project
-tags:
-  - project
 draft: "true"
 status: in progress
+tags:
+  - project
 
----
 ---
 # <% title %>
 

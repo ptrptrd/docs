@@ -2,9 +2,9 @@
 title: Project
 date: 2026-05-22 23:39
 type: dashboard
+draft: "false"
 tags:
   - dashboard
-draft: "false"
 ---
 # Open Project
 

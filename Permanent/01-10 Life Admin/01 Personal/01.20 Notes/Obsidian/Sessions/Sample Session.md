@@ -2,11 +2,10 @@
 title: Session - 2026-05-11 21:42
 date: 2026-05-11 21:42
 type: journal
+draft: "false"
 tags:
   - daily
   - journal
-draft: "false"
----
 ---
 # Monday, May 11th 2026
 

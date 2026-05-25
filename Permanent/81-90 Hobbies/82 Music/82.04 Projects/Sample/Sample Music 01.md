@@ -2,14 +2,14 @@
 title: Sample Music 01
 start date: 2026-05-24
 type: project
-tags:
-  - project
-  - music
 draft: "false"
 artist: hindia
 status: in progress
+tags:
+  - project
+  - music
 ---
----
+
 # Sample Music 01
 
 # Song 

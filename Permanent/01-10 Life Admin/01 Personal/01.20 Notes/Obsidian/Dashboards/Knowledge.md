@@ -2,9 +2,9 @@
 title: Knowledge
 date: 2026-05-24 13:29
 type: dashboard
+draft: "false"
 tags:
   - dashboard
-draft: "false"
 ---
 # Last Written Knowledge Notes
 

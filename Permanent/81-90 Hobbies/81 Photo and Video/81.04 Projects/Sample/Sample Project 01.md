@@ -2,14 +2,13 @@
 title: Sample Project 01
 start date: 2026-05-24
 type: project
+draft: "false"
+status: completed
 tags:
   - project
   - photo
   - video
   - publishing
-draft: "false"
-status: completed
----
 ---
 # Sample Project 01
 

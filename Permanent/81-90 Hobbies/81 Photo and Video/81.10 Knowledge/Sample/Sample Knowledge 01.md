@@ -2,10 +2,9 @@
 title: Sample Knowledge 01
 date: 2026-05-24
 type: knowledge
+draft: "false"
 tags:
   - knowledge
-draft: "false"
----
 ---
 # Sample Knowledge 01
 

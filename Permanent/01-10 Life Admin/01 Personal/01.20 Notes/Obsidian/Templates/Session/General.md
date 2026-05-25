@@ -15,10 +15,10 @@ _%>
 title: Session - <% tp.date.now("YYYY-MM-DD HH:mm") %>
 date: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 type: session
+draft: "true"
 tags:
   - journal
   - session
-draft: "true"
----
+
 ---
 # <% tp.date.now("dddd, MMMM Do YYYY") %>

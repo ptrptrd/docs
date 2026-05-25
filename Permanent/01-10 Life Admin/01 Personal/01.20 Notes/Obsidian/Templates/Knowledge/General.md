@@ -11,10 +11,10 @@ _%>
 title: <% title %>
 date: <% tp.date.now("YYYY-MM-DD") %>
 type: knowledge
+draft: "true"
 tags:
   - knowledge
-draft: "true"
----
+
 ---
 # <% title %>
 

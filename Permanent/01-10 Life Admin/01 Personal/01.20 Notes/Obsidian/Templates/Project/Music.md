@@ -19,7 +19,6 @@ artist:
 status: in progress
 
 ---
----
 # <% title %>
 
 # Song 
