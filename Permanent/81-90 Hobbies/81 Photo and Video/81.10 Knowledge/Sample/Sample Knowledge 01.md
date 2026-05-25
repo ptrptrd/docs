@@ -82,4 +82,3 @@ Check https://wikipedia.com.
 
 <!-- SerializedDataviewJS END -->
 
----

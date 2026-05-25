@@ -97,4 +97,3 @@ dv.paragraph(output.join('\n'));
 - [ ] Add new task. [[Sample Music 01]]
 <!-- SerializedDataviewJS END -->
 
----
