@@ -1,15 +1,12 @@
 {
-  "foldersToScan": [
-    "Permanent",
-    "Yearly"
-  ],
+  "foldersToScan": [],
   "ignoredFolders": [],
   "disableAutomaticUpdates": false,
-  "showRefreshButton": true,
+  "showRefreshButton": false,
   "foldersToForceUpdate": [],
   "showErrorNotifications": true,
   "debugLogging": true,
   "addTrailingNewline": false,
-  "linkFormat": "shortest",
+  "linkFormat": "obsidian",
   "enableDataviewJS": true
 }

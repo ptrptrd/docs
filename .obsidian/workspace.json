@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "106e3d6b3043b570",
+        "id": "e0cb1e6633ad9e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea51f8f7d277c357",
+            "id": "20dd6bca14955f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
+                "file": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Knowledge"
+              "title": "Journal"
             }
           }
         ]
@@ -179,38 +179,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea51f8f7d277c357",
+  "active": "20dd6bca14955f02",
   "lastOpenFiles": [
-    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Coffee.md",
+    "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects/Sample/Sample Project 01.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Sample Journal.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions/Sample Session.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Project.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Knowledge.md",
-    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
+    "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
+    "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Sample/Sample Knowledge 01.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Journal.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md",
+    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 01.md",
+    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
     "index.md",
     "Permanent/81-90 Hobbies/89 Others/Test Project.md",
     "Permanent/81-90 Hobbies/89 Others",
-    "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
     "Permanent/81-90 Hobbies/88 Languages/Sample",
     "Permanent/81-90 Hobbies/88 Languages",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample",
     "Permanent/81-90 Hobbies/82 Music/82.04 Projects",
     "Permanent/81-90 Hobbies/82 Music",
-    "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Sample/Sample Knowledge 01.md",
-    "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects/Sample/Sample Project 01.md",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge/Sample",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects/Sample",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.10 Knowledge",
     "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Coffee.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Sample Journal.md",
     "notes/assets/ptrptrd.png",
     "notes/First Post.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Dashboards/Untitled.md",

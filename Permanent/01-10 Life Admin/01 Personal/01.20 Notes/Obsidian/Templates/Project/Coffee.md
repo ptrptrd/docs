@@ -16,6 +16,7 @@ tags:
   - coffee
 draft: "true"
 status: in progress
+
 ---
 ---
 # <% title %>

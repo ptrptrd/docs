@@ -10,6 +10,7 @@ while (await tp.file.exists(`${sessionsFolder}/${today} ${index}.md`)) {
 
 await tp.file.rename(`${today} ${index}`)
 _%>
+
 ---
 title: Session - <% tp.date.now("YYYY-MM-DD HH:mm") %>
 date: <% tp.date.now("YYYY-MM-DD HH:mm") %>

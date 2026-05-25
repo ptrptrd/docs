@@ -17,6 +17,7 @@ tags:
 draft: "true"
 artist: 
 status: in progress
+
 ---
 ---
 # <% title %>

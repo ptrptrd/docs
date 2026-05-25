@@ -18,10 +18,11 @@ SORT date DESC
 
 # Completed Project
 
-```dataview
-TABLE title AS "Title"
-FROM ""
-WHERE type = lower("Project")
-WHERE status = "completed"
-SORT date DESC
-```
+<!-- QueryToSerialize: TABLE title AS "Title" FROM "" WHERE type = lower("Project") WHERE status = "completed" SORT date DESC -->
+<!-- SerializedQuery: TABLE title AS "Title" FROM "" WHERE type = lower("Project") WHERE status = "completed" SORT date DESC -->
+
+| File                                                                                                         | Title             |
+| ------------------------------------------------------------------------------------------------------------ | ----------------- |
+| [[Sample Project 01]] | Sample Project 01 |
+
+<!-- SerializedQuery END -->

@@ -22,7 +22,6 @@ This progress should still be included in the project note.
 
 This should not be included in the project note. 
 
-
 ## [[Sample Language 01]]
 
 ### Grammar 
