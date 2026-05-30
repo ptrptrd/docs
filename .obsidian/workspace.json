@@ -11,14 +11,10 @@
             "id": "20dd6bca14955f02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Structure.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Structure"
+              "title": "New tab"
             }
           }
         ]
@@ -179,13 +175,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d02ebfb1c8dee4ce",
+  "active": "20dd6bca14955f02",
   "lastOpenFiles": [
+    "81-89 Hobbies/83 Programming/Untitled.md",
+    "81-89 Hobbies/82 Music/82.10 Projects/Untitled.md",
+    "81-89 Hobbies/89 Others/89.10 Languages/Untitled 3.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Untitled.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Untitled 1.md",
+    "81-89 Hobbies/89 Others/89.10 Languages/Untitled 2.md",
+    "81-89 Hobbies/89 Others/89.10 Languages/Untitled 1.md",
+    "81-89 Hobbies/89 Others/89.10 Languages/Untitled.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Structure.md",
+    "81-89 Hobbies/81 Photo and Video/81.20 Knowledge/Untitled.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Sessions/2026-05-30 1.md",
+    "81-89 Hobbies/81 Photo and Video/Untitled.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
     "81-90 Hobbies/89 Others/89.10 Languages/Untitled.md",
     "81-90 Hobbies/81 Photo and Video/81.10 Projects/Untitled.md",
     "81-89 Hobbies/89 Others/89.10 Languages/Sample Language 01.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Structure.md",
     "81-89 Hobbies/83 Programming/83.20 Knowledge",
     "81-89 Hobbies/82 Music/82.10 Projects/Sample Music 01.md",
     "index.md",
@@ -203,21 +210,10 @@
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Dashboard.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Journal.md",
-    "81-89 Hobbies/81 Photo and Video/81.20 Knowledge/Sample Knowledge 01.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Session/General.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Project.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Knowledge.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/Sample Journal.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Sessions/Sample Session.md",
-    "Permanent/81-90 Hobbies/85 Programming/85.04 Projects/Sample Programming Project 01.md",
     "81-89 Hobbies/83 Programming/83.10 Repositories",
-    "Permanent/81-90 Hobbies/81 Photo and Video/81.03 Projects/Sample/Sample Project 02.md",
-    "Permanent/81-90 Hobbies/82 Music/82.04 Projects/Sample/Sample Music 02.md",
-    "Permanent/81-90 Hobbies/89 Others/Test Project.md",
     "81-89 Hobbies/89 Others",
     "81-90 Hobbies/89 Others/88 Languages/Sample",
     "notes/assets/ptrptrd.png",
-    "notes/First Post.md",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Untitled.canvas",
     "notes/assets/ptrptrd 1.png",
     "ptrptrd.png"

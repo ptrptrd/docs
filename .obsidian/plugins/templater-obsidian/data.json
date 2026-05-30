@@ -22,32 +22,24 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)Photo and Video(/.*)Projects(/.*)?$",
+      "regex": "(/.*)Photo and Video(/.*)Projects(/.*)?",
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)Music(/.*)Projects(/.*)?$",
+      "regex": "(/.*)Music(/.*)Projects(/.*)?",
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Music.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)Projects(/.*)?$",
-      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
-    },
-    {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)Languages(/.*)?$",
+      "regex": "(/.*)Others(/.*)Languages(/.*)?",
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Knowledge/Language.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies(/.*)Knowledge(/.*)?$",
-      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Knowledge/General.md"
+      "regex": "(/.*)Hobbies(/.*)Projects(/.*)?",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
     },
     {
-      "regex": "(^|.*/)01\\.20 Notes(/.*)Sessions(/.*)?$",
+      "regex": "(/.*)Sessions(/.*)?",
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Session/General.md"
-    },
-    {
-      "regex": "(^|.*/)01\\.20 Notes(/.*)Dashboards(/.*)?$",
-      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Dashboard.md"
     }
   ],
   "syntax_highlighting": true,
