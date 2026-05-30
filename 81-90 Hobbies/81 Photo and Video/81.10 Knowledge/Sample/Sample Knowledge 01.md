@@ -1,23 +1,24 @@
 ---
-title: Sample Language 01
+title: Sample Knowledge 01
 date: 2026-05-24
 type: knowledge
-language: Sample Language 01
+draft: "false"
 tags:
   - knowledge
-draft: "false"
 ---
+# Sample Knowledge 01
+
+# Description
+
 ---
-# Sample Language 01
 
 # Journal & Session Index
 
 <!-- QueryToSerialize: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
 <!-- SerializedQuery: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
 
-| File                                                                                                      | Title                |
-| --------------------------------------------------------------------------------------------------------- | -------------------- |
-| [[Sample Journal]] | Journal - 2026-05-10 |
+| File | Title |
+| ---- | ----- |
 
 <!-- SerializedQuery END -->
 
@@ -68,17 +69,15 @@ dv.paragraph(output.join('\n'));
 }
 -->
 <!-- SerializedDataviewJS -->
-## [[Sample Journal]]
+## [[Sample Session]]
 
 
-#### Grammar 
+This is a basic information. 
 
-This is a test grammar note. 
+#### Reference 
 
-#### Vocabularies 
+Check https://wikipedia.com.
 
-- next: one. 
 
 <!-- SerializedDataviewJS END -->
 
----

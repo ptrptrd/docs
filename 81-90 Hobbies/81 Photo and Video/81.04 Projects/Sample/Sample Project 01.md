@@ -1,25 +1,53 @@
 ---
-title: Sample Knowledge 01
-date: 2026-05-24
-type: knowledge
+title: Sample Project 01
+start date: 2026-05-24
+type: project
 draft: "false"
+status: completed
 tags:
-  - knowledge
+  - project
+  - photo
+  - video
+  - publishing
 ---
-# Sample Knowledge 01
+# Sample Project 01
 
-# Description
+# Progression
+
+## Photos
+- [ ] Import to Lightroom
+- [ ] Photo Selection
+- [ ] Editing Others' Photos
+- [ ] Editing Own Photos
+- [ ] Portfolio Selection
+- [ ] Done
+
+## Videos
+- [ ] Footage Selection
+- [ ] Editing Own Footage
+- [ ] Portfolio Selection
+- [ ] Done
+
+# Notes
 
 ---
+# Tasks
 
+```dataview
+TASK 
+FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
+WHERE contains(text, "[[" + this.file.name + "]]")
+SORT file.name ASC
+```
+
+---
 # Journal & Session Index
 
 <!-- QueryToSerialize: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
 <!-- SerializedQuery: TABLE title AS "Title" FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(file.outlinks, this.file.link) SORT date DESC -->
 
-| File                                                                                                       | Title                      |
-| ---------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[Sample Session]] | Session - 2026-05-11 21:42 |
+| File | Title |
+| ---- | ----- |
 
 <!-- SerializedQuery END -->
 
@@ -70,8 +98,27 @@ dv.paragraph(output.join('\n'));
 }
 -->
 <!-- SerializedDataviewJS -->
+## [[Sample Journal]]
+
+
+This is a test note to test project template. 
+
+#### Sub Progress 1
+
+This progress should still be included in the project note. 
+
+
 ## [[Sample Session]]
 
+
+Starting doing photo and video 
+
+### Next ToDo 
+
+- [ ] Check photo number 1 [[Sample Project 01]]  
+
+
+### [[Sample Knowledge 01]]
 
 This is a basic information. 
 
@@ -80,5 +127,17 @@ This is a basic information.
 Check https://wikipedia.com.
 
 
+### [[Sample Music 01]]
+
+- [ ] Start sampling drum. [[Sample Music 01]]
+
+#### Mixing 
+
+- [ ] Turn vocal's volume down. [[Sample Music 01]]
+- [ ] Add new task. [[Sample Music 01]]
 <!-- SerializedDataviewJS END -->
+
+
+
+
 

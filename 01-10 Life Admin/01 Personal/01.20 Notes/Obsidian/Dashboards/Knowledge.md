@@ -11,8 +11,8 @@ tags:
 <!-- QueryToSerialize: TABLE title AS "Title" FROM "" WHERE type = lower("Knowledge") SORT date DESC -->
 <!-- SerializedQuery: TABLE title AS "Title" FROM "" WHERE type = lower("Knowledge") SORT date DESC -->
 
-| File                                                                                                              | Title               |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------- |
+| File                                                                                                    | Title               |
+| ------------------------------------------------------------------------------------------------------- | ------------------- |
 | [[Sample Knowledge 01]] | Sample Knowledge 01 |
 | [[Sample Language 01]]                         | Sample Language 01  |
 
