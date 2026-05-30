@@ -46,7 +46,7 @@ The following structure to be used in this note:
 ├── 80-89 Hobbies
 │   ├── 81 Photo and Video
 │   │   ├── 81.10 Projects 
-│   │   │   ├── 20260101 - Test Projects/
+│   │   │   ├── 20260101 - Test Projects.md
 │   │   │   └── ...
 │   │   └── ...
 │   ├── 82 Music
