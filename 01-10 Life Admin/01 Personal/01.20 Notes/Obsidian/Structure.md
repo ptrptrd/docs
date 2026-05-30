@@ -1,3 +1,13 @@
+---
+title: Structure
+date: 2026-05-30
+tags:
+  - obsidian
+---
+# Structure 
+
+The following structure to be used in this note:
+
 ```bash
 ├── 10-19 Life Admin
 │   ├── 11 Personal
@@ -23,12 +33,12 @@
 │   │   └── ...  
 │   ├── 19 Works
 │   │   ├── 19.10 Nine to Five
-│   │   │   ├── 2018 - Siemens
+│   │   │   ├── 2018 - Company X
 │   │   │   │   ├── Contract.md
 │   │   │   │   └── ...
 │   │   │   └── ... 
 │   │   ├── 19.11 Side Jobs
-│   │   │   ├── 2024 - IDM Kombi
+│   │   │   ├── 2024 - Sidejob X
 │   │   │   │   ├── 20250101 - Profit.md
 │   │   │   │   └── ...
 │   │   │   └── ... 
@@ -76,3 +86,7 @@
 │   └── ... 
 └── ...
 ```
+
+## References
+
+- https://johnnydecimal.com/
