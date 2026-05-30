@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates",
+  "templates_folder": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates",
   "templates_pairs": [
     [
       "",
@@ -22,32 +22,32 @@
   "enable_file_templates": true,
   "file_templates": [
     {
-      "regex": "(^|.*/)81-90 Hobbies/81 Photo and Video(/.*)Projects(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Photo and Video(/.*)Projects(/.*)?$",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies/82 Music(/.*)Projects(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/Music.md"
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Music(/.*)Projects(/.*)?$",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Music.md"
     },
     {
       "regex": "(^|.*/)81-90 Hobbies(/.*)Projects(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Project/General.md"
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
     },
     {
-      "regex": "(^|.*/)81-90 Hobbies/88 Languages(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/Language.md"
+      "regex": "(^|.*/)81-90 Hobbies(/.*)Languages(/.*)?$",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Knowledge/Language.md"
     },
     {
       "regex": "(^|.*/)81-90 Hobbies(/.*)Knowledge(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Knowledge/General.md"
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Knowledge/General.md"
     },
     {
       "regex": "(^|.*/)01\\.20 Notes(/.*)Sessions(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Session/General.md"
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Session/General.md"
     },
     {
       "regex": "(^|.*/)01\\.20 Notes(/.*)Dashboards(/.*)?$",
-      "template": "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Dashboard.md"
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Dashboard.md"
     }
   ],
   "syntax_highlighting": true,
