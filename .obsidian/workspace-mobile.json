@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "66cbcf0cd6aec9cf",
+    "id": "57b1b48854abaf2c",
     "type": "split",
     "children": [
       {
-        "id": "785c569c38831494",
+        "id": "ee6699bb6547ccb9",
         "type": "tabs",
         "children": [
           {
-            "id": "20c8c8c07e880fe1",
+            "id": "79c3aafd1bf5ac5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "37684ef7c103ef25",
+    "id": "7ba0806400e2defc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c4b668a44c756fd8",
+        "id": "34c07e229a2d12f0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "b17cfcfa5bf152b3",
+        "id": "35fc07f8d609eb68",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "e54cd0a4c8c6b070",
+        "id": "51ca93ac9818fd76",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,21 @@
         }
       },
       {
-        "id": "1d7bd9a97f9a0b3d",
+        "id": "b185d84efceabce9",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "80094a067ea30aac",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -89,15 +103,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "ae29ad92cfbd63a8",
+    "id": "d2b1129727496e83",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "49dd0847743ba135",
+        "id": "07ceb184ec015f84",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
         }
       },
       {
-        "id": "489bde609467e00e",
+        "id": "788f9285021469e9",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -124,7 +139,7 @@
         }
       },
       {
-        "id": "278e44b6294847aa",
+        "id": "a6e237cd376a9366",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -138,7 +153,7 @@
         }
       },
       {
-        "id": "11e1cdfc430e81f0",
+        "id": "b2a8ea07e083e41f",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -152,23 +167,55 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "20c8c8c07e880fe1",
+  "active": "79c3aafd1bf5ac5a",
   "lastOpenFiles": [
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20170101 - Indonesia - Urlaub.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
-    "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
-    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Sample Journal.md"
+    "index.md",
+    "LICENSE",
+    "81-89 Hobbies/81 Photo and Video/81.20 Knowledge/Sample Knowledge 01.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241102 - Berchtesgaden.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220824 - Gardasee.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230702 - Stoehrhaus.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220925 - Stoehrhaus.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20190406 - Prague - Trips.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230516 - Ehrwald.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20221227 - Feldberg.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220423 - Herzogstand.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20190221 - Coburg - Outing.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250501 - Locarno.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230129 - Kranzberg.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260228 - Nuernberg.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220106 - Arbersee.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241101 - Zell am See.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230812 - Bram Sofie.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250619 - Elphine Michael.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220326 - Allgaeu Hochries.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230709 - Hoellental.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20210105 - NRW.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20240601 - Lauterbrunnen.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20251224 - Wiesbaden.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230102 - CV.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230304 - Fichtelsee.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20231101 - Regensburg.md",
+    "81-89 Hobbies/81 Photo and Video/81.20 Knowledge",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects",
+    "81-89 Hobbies/89 Others/89.10 Languages",
+    "81-89 Hobbies/82 Music/82.10 Projects",
+    "81-89 Hobbies/81 Photo and Video",
+    "81-89 Hobbies/89 Others",
+    "81-89 Hobbies/82 Music",
+    "81-89 Hobbies",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Session"
   ]
 }
