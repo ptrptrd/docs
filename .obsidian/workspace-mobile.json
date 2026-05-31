@@ -11,10 +11,14 @@
             "id": "20c8c8c07e880fe1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Sample Project 01"
             }
           }
         ]
@@ -161,5 +165,10 @@
     }
   },
   "active": "20c8c8c07e880fe1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20170101 - Indonesia - Urlaub.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
+    "Permanent/81-90 Hobbies/88 Languages/Sample/Sample Language 01.md",
+    "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal/Sample Journal.md"
+  ]
 }
