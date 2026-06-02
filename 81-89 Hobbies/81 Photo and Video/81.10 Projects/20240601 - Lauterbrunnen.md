@@ -15,9 +15,9 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [ ] ~~Editing Others' Photos~~
 - [ ] Editing Own Photos
 - [ ] Portfolio Selection
 - [ ] Done

@@ -3,7 +3,7 @@ title: 20170415 - Muenchen - Wandern
 start date: 2026-05-30
 type: project
 draft: "false"
-status: in progress
+status: completed
 tags:
   - project
   - photo
@@ -15,42 +15,18 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
-- [ ] Editing Own Photos
-- [ ] Portfolio Selection
-- [ ] Done
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [x] Editing Others' Photos
+- [x] Editing Own Photos
+- [x] Portfolio Selection
+- [x] Done
 
 ## Videos
-- [ ] Footage Selection
-- [ ] Editing Own Footage
-- [ ] Portfolio Selection
-- [ ] Done
-
-# Notes
-
----
-# Tasks
-
-```dataview
-TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(text, "[[" + this.file.name + "]]")
-SORT file.name ASC
-```
-
----
-# Journal & Session Index
-
-```dataview
-TABLE title AS "Title"
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(file.outlinks, this.file.link)
-SORT date DESC
-```
-
-# Journal & Session Notes
+- [ ] ~~Footage Selection~~
+- [ ] ~~Editing Own Footage~~
+- [ ] ~~Portfolio Selection~~
+- [ ] ~~Done~~
 
 ```dataviewjs
 const journalFolder = '"Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal"'

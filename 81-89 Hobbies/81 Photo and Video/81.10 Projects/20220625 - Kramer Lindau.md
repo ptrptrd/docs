@@ -3,7 +3,7 @@ title: 20220625 - Kramer Lindau
 start date: 2026-05-30
 type: project
 draft: "false"
-status: in progress
+status: completed
 tags:
   - project
   - photo
@@ -15,18 +15,18 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
-- [ ] Editing Own Photos
-- [ ] Portfolio Selection
-- [ ] Done
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [x] Editing Others' Photos
+- [x] Editing Own Photos
+- [x] Portfolio Selection
+- [x] Done
 
 ## Videos
-- [ ] Footage Selection
-- [ ] Editing Own Footage
-- [ ] Portfolio Selection
-- [ ] Done
+- [x] Footage Selection
+- [x] Editing Own Footage
+- [x] Portfolio Selection
+- [x] Done
 
 # Notes
 

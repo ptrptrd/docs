@@ -15,12 +15,12 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
-- [ ] Editing Own Photos
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [x] Editing Others' Photos
+- [ ] ~~Editing Own Photos~~
 - [ ] Portfolio Selection
-- [ ] Done
+- [x] Done
 
 ## Videos
 - [ ] Footage Selection

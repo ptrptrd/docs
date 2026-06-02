@@ -15,18 +15,18 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [x] Editing Others' Photos
 - [ ] Editing Own Photos
 - [ ] Portfolio Selection
 - [ ] Done
 
 ## Videos
-- [ ] Footage Selection
-- [ ] Editing Own Footage
-- [ ] Portfolio Selection
-- [ ] Done
+- [x] Footage Selection
+- [x] Editing Own Footage
+- [x] Portfolio Selection
+- [x] Done
 
 # Notes
 

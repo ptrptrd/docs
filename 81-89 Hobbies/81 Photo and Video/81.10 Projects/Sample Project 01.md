@@ -33,12 +33,7 @@ tags:
 ---
 # Tasks
 
-```dataview
-TASK 
-FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions"
-WHERE contains(text, "[[" + this.file.name + "]]")
-SORT file.name ASC
-```
+<!-- QueryToSerialize: TASK FROM "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal" OR "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Sessions" WHERE contains(text, "[[" + this.file.name + "]]") SORT file.name ASC -->
 
 ---
 # Journal & Session Index

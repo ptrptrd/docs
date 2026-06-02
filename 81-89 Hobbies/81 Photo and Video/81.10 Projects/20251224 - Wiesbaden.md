@@ -7,7 +7,6 @@ status: in progress
 tags:
   - project
   - photo
-  - video
   - publishing
 ---
 # 20251224 - Wiesbaden
@@ -15,18 +14,18 @@ tags:
 # Progression
 
 ## Photos
-- [ ] Import to Lightroom
-- [ ] Photo Selection
-- [ ] Editing Others' Photos
-- [ ] Editing Own Photos
+- [x] Import to Lightroom
+- [x] Photo Selection
+- [x] Editing Others' Photos
+- [ ] ~~Editing Own Photos~~
 - [ ] Portfolio Selection
-- [ ] Done
+- [x] Done
 
-## Videos
-- [ ] Footage Selection
-- [ ] Editing Own Footage
-- [ ] Portfolio Selection
-- [ ] Done
+## ~~Videos~~
+- [ ] ~~Footage Selection~~
+- [ ] ~~Editing Own Footage~~
+- [ ] ~~Portfolio Selection~~
+- [ ] ~~Done~~
 
 # Notes
 
