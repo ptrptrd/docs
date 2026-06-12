@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-06.md",
+                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/20180127 - Berlin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-06"
+              "title": "20180127 - Berlin"
             }
           }
         ],
@@ -135,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5
+    "width": 489.5,
+    "collapsed": true
   },
   "right": {
     "id": "2e09458fcc88c024",
@@ -238,6 +239,7 @@
   },
   "active": "1c36616a7d53c839",
   "lastOpenFiles": [
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-12.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20180127 - Berlin.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-06.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Project.md",
@@ -263,7 +265,6 @@
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241228 - Amsterdam.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241102 - Berchtesgaden.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241101 - Zell am See.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241002 - Dubrovnik.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/Untitled",
     "81-89 Hobbies/83 Programming/83.20 Knowledge",
     "Yearly/2025/81-90 Hobbies/82 Music/82.04 Projects",
