@@ -55,6 +55,34 @@ Test notes 02.
 
 <!-- SerializedQuery END -->
 
+# BASE Journal & Session Index
+
+```base
+views:
+  - type: table
+    name: Recent Journal Entries
+    filters:
+      and:
+        - or:
+            - file.inFolder("10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal")
+            - file.inFolder("10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Sessions")
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - title
+    sort:
+      - property: file.ctime
+        direction: DESC
+    properties:
+      file.name:
+        displayName: Note
+      file.ctime:
+        displayName: Created
+        format: yyyy-MM-dd
+
+```
+
+
 # Journal & Session Notes
 
 <!-- DataviewJSToSerialize:
@@ -111,6 +139,34 @@ This is a test note to test project template.
 
 This progress should still be included in the project note. 
 
+
+## [[Sample Session]]
+
+
+Starting doing photo and video 
+
+### Next ToDo 
+
+- [ ] Check photo number 1 [[Sample Project 01]]  
+
+
+### [[Sample Knowledge 01]]
+
+This is a basic information. 
+
+#### Reference 
+
+Check https://wikipedia.com.
+
+
+### [[Sample Music 01]]
+
+- [ ] Start sampling drum. [[Sample Music 01]]
+
+#### Mixing 
+
+- [ ] Turn vocal's volume down. [[Sample Music 01]]
+- [ ] Add new task. [[Sample Music 01]]
 <!-- SerializedDataviewJS END -->
 
 
