@@ -41,44 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220603 - Muenchen.md",
+                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20220603 - Muenchen"
-            }
-          },
-          {
-            "id": "c02b5fdf9a9a0e7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230331 - Wiesbaden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20230331 - Wiesbaden"
-            }
-          },
-          {
-            "id": "1c36616a7d53c839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "81-89 Hobbies/81 Photo and Video/81.10 Projects/20180127 - Berlin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20180127 - Berlin"
+              "title": "Sample Project 01"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Journal\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489.5,
-    "collapsed": true
+    "width": 489.5
   },
   "right": {
     "id": "2e09458fcc88c024",
@@ -237,16 +208,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c36616a7d53c839",
+  "active": "7f0d88dd24edd24c",
   "lastOpenFiles": [
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-12.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20180127 - Berlin.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-06.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Untitled.base",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Photo and Video.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Project.md",
-    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Knowledge.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20251003 - Ulm.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230331 - Wiesbaden.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Coffee.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20220603 - Muenchen.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Untitled.base",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20230331 - Wiesbaden.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Untitled 1.base",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/Music.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Knowledge/General.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Dashboard.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Dashboards/Knowledge.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20180127 - Berlin.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-12.md",
+    "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-06.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20251003 - Ulm.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260416 - Singapore.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260404 - Sumba.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260321 - Indonesia.md",
@@ -258,13 +238,6 @@
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250906 - Frankfurt.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250810 - Brig.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250725 - Denzel.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250705 - Norisring.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250619 - Elphine Michael.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250529 - Schladming.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20250501 - Locarno.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241228 - Amsterdam.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241102 - Berchtesgaden.md",
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/20241101 - Zell am See.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/Untitled",
     "81-89 Hobbies/83 Programming/83.20 Knowledge",
     "Yearly/2025/81-90 Hobbies/82 Music/82.04 Projects",
@@ -272,9 +245,6 @@
     "Yearly/2025/81-90 Hobbies/82 Music",
     "Yearly/2025/81-90 Hobbies/81 Photo and Video",
     "Yearly/2025/81-90 Hobbies",
-    "Yearly/2025",
-    "81-89 Hobbies/83 Programming/83.10 Repositories",
-    "81-89 Hobbies/89 Others",
     "notes/assets/ptrptrd.png",
     "Permanent/01-10 Life Admin/01 Personal/01.20 Notes/Obsidian/Templates/Untitled.canvas",
     "notes/assets/ptrptrd 1.png",
