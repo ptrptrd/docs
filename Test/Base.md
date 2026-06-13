@@ -9,11 +9,12 @@ views:
         - or:
             - file.inFolder("test/journal")
             - file.inFolder("test/sessions")
-        - file.hasLink("Base.md")
+        - file.hasLink(this.file)
     order:
       - file.name
       - title
     sort:
       - property: file.ctime
         direction: DESC
+
 ```
