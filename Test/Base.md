@@ -7,8 +7,8 @@ views:
     filters:
       and:
         - or:
-            - file.inFolder("Test/Journal")
-            - file.inFolder("Test/Sessions")
+            - file.inFolder("test/journal")
+            - file.inFolder("test/sessions")
         - file.hasLink(this.file)
     order:
       - file.name
