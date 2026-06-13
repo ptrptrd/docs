@@ -9,7 +9,7 @@ views:
         - or:
             - file.inFolder("test/journal")
             - file.inFolder("test/sessions")
-        - file.hasLink(this.file)
+        - file.hasLink("Base.md")
     order:
       - file.name
       - title
