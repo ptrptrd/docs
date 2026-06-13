@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/Base.md",
+                "file": "test/sessions/Sample Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base"
+              "title": "Sample Session"
             }
           }
         ],
@@ -208,17 +208,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d02ebfb1c8dee4ce",
+  "active": "7f0d88dd24edd24c",
   "lastOpenFiles": [
-    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
+    "test/journal/2026-06-12.md",
+    "test/journal/Sample Journal.md",
+    "test/journal/2026-06-06.md",
     "test/Base.md",
+    "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
     "test/sessions/Sample Session.md",
     "index.md",
-    "test/journal/2026-06-06.md",
     "Test/Journal/Test.md",
-    "test/journal/Sample Journal.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260416 - Singapore.md",
-    "test/journal/2026-06-12.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/2026-06-06.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Journal/Sample Journal.md",
     "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Sessions/Sample Session.md",
