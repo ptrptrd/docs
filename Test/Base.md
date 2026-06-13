@@ -16,11 +16,4 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-    properties:
-      file.name:
-        displayName: Note
-      file.ctime:
-        displayName: Created
-        format: yyyy-MM-dd
-
 ```

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/sessions/Sample Session.md",
+                "file": "test/Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sample Session"
+              "title": "Base"
             }
           }
         ],
@@ -210,12 +210,12 @@
   },
   "active": "7f0d88dd24edd24c",
   "lastOpenFiles": [
+    "test/sessions/Sample Session.md",
     "test/journal/2026-06-12.md",
     "test/journal/Sample Journal.md",
     "test/journal/2026-06-06.md",
     "test/Base.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/Sample Project 01.md",
-    "test/sessions/Sample Session.md",
     "index.md",
     "Test/Journal/Test.md",
     "81-89 Hobbies/81 Photo and Video/81.10 Projects/20260416 - Singapore.md",
