@@ -38,6 +38,14 @@
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
     },
     {
+      "regex": "(/.*)Programming(/.*)Projects(/.*)?",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
+    },
+    {
+      "regex": "(/.*)Projects(/.*)?",
+      "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Project/General.md"
+    },
+    {
       "regex": "(/.*)Sessions(/.*)?",
       "template": "10-19 Life Admin/11 Personal/11.20 Notes/Obsidian/Templates/Session/General.md"
     }
